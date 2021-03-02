@@ -1,0 +1,14 @@
+#!/bin/sh
+cd bin
+echo "Running 1 with input 2"
+./HelloMake1 2
+echo "Running 1 with input 4"
+./HelloMake1 4
+echo "Running 1 with input 8"
+./HelloMake1 8
+echo "Running 2 with input 2"
+./HelloMake2 2
+echo "Running 2 with input 4"
+./HelloMake2 4
+echo "Running 2 with input 8"
+./HelloMake2 8

@@ -2,12 +2,8 @@
 
 Aniruddh Chavda
 
-Spring 21
-
-CS5352 Project 1 
-
 Part 1: 
-Simple shell scripting program to display greeting message,Login name, working directory and time.
+Shell scripting program to display greeting message,Login name, working directory and time.
 
 Part 2: 
  A) Created a program which will take the input n from the command line argument and will create n child processes of the same parent process.
